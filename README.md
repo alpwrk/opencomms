@@ -1,5 +1,7 @@
 # OpenComms
 
+# THIS IS STILL IN MAINTENANCE AND COULD NOT WORK
+
 OpenComms is a self hostable, semi E2EE Chat App
 
 OpenComms room and user passwords are completely encrypted such as all of the messages inside a chatroom.
